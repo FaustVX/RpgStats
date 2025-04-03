@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "#rpg_stats:mobs"
+        }
+      }
+    }
+  },
+  "requirements": [],
+  "rewards": {
+    "function": "rpg_stats:on_kill"
+  }
+}
