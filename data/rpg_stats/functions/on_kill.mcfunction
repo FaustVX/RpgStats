@@ -1,4 +1,4 @@
-execute if score @s rpg_lvl >= $max_levels rpg_values run return 0
+execute if score @s rpg_lvl matches 100.. run return 0
 advancement revoke @s only rpg_stats:on_kill
 execute unless score @s rpg_lvl matches 0.. run scoreboard players set @s rpg_lvl 0
 execute store result score @s rpg_values run scoreboard players add @s rpg_xp 1

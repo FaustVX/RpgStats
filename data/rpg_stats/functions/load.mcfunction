@@ -8,7 +8,6 @@ scoreboard players set $max_health_cost rpg_values 3
 scoreboard players set $strength_cost rpg_values 1
 scoreboard players set $speed_cost rpg_values 1
 scoreboard players set $defense_cost rpg_values 2
-scoreboard players set $max_levels rpg_values 100
 scoreboard objectives setdisplay sidebar rpg_lvl
 scoreboard objectives add rpg_lvlup_max_health trigger "Max Health"
 scoreboard objectives add rpg_lvlup_strength trigger "Strength"
