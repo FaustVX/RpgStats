@@ -1,0 +1,8 @@
+{
+    "values": [
+        "rpg_stats:tick/max_health",
+        "rpg_stats:tick/strength",
+        "rpg_stats:tick/speed",
+        "rpg_stats:tick/defense"
+    ]
+}
