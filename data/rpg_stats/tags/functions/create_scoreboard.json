@@ -1,0 +1,8 @@
+{
+    "values": [
+        "rpg_stats:create_scoreboard/max_health",
+        "rpg_stats:create_scoreboard/strength",
+        "rpg_stats:create_scoreboard/speed",
+        "rpg_stats:create_scoreboard/defense"
+    ]
+}

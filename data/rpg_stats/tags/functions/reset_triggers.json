@@ -1,0 +1,8 @@
+{
+    "values": [
+        "rpg_stats:reset_triggers/max_health",
+        "rpg_stats:reset_triggers/strength",
+        "rpg_stats:reset_triggers/speed",
+        "rpg_stats:reset_triggers/defense"
+    ]
+}

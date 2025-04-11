@@ -1,0 +1,8 @@
+{
+    "values": [
+        "rpg_stats:reload/max_health",
+        "rpg_stats:reload/strength",
+        "rpg_stats:reload/speed",
+        "rpg_stats:reload/defense"
+    ]
+}
