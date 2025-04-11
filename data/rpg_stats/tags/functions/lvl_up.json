@@ -1,0 +1,8 @@
+{
+    "values": [
+        "rpg_stats:lvl_up/max_health",
+        "rpg_stats:lvl_up/strength",
+        "rpg_stats:lvl_up/speed",
+        "rpg_stats:lvl_up/defense"
+    ]
+}
